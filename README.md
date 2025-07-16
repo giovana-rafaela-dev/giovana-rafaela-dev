@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<h2 align="center">💙 Olá, eu sou a Giovana!</h2>
+<h2 align="left">💙 Olá, eu sou a Giovana!</h2>
 
 ###
 
@@ -25,11 +25,23 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giovana-rafaela-dev/giovana-rafaela-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giovana-rafaela-dev/giovana-rafaela-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giovana-rafaela-dev/giovana-rafaela-dev/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="left">Sobre mim</h2>
+
+<li> 🎓 Técnica em Desenvolvimento de Sistemas pela ETEC</li>
+<li> 🎓 Graduanda em Análise e Desenvolvimento de Sistemas pelo SENAI</li>
+<li> 🚀 Sempre em busca de melhorar minha lógica, escrever código limpo e aprender algo novo todos os dias</li>
+
+<hr>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giovana-rafaela-dev&theme=radical" alt="status" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-rafaela-dev&hide=html&layout=compact&theme=radical" alt="linguagens" />
+</div>
+
+
 
 ###
 
