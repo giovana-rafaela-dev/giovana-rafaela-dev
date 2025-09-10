@@ -21,7 +21,8 @@
 
 ###
 
-<p align="left">Atualmente, sou desenvolvedora em formação, explorando o mundo do backend e frontend e mergulhando cada vez mais em tecnologias que me ajudam a criar soluções práticas e funcionais.<br><br>Tenho focado meus estudos em APIs com FastAPI, bancos de dados com PostgreSQL, e Docker para deixar tudo mais organizado e fácil de rodar.</p>
+<p align="left">Atualmente, sou desenvolvedora em formação, explorando o mundo do frontend e mergulhando cada vez mais em tecnologias que me ajudam a criar interfaces modernas e funcionais.<br><br>Tenho focado meus estudos em <b>React</b>, <b>Next.js</b>, <b>Tailwind CSS</b> e <b>shadcn/ui</b>, construindo projetos que unem praticidade e bom design.</p>
+
 
 ###
 
